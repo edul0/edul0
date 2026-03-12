@@ -1,15 +1,15 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" alt="Banner" width="100%">
   
-  <h1>Olá! Meu nome é Otavio</h1>
+  <h1>Olá! Meu nome é EduardoL</h1>
   <p>Estudante de Gestão da TI estruturando soluções corporativas, automações e bancos de dados.</p>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=COLOQUE_SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COLOQUE_SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edul0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edul0&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br>
