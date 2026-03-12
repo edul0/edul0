@@ -14,13 +14,13 @@
 
 <br>
 
-## 🚀 O que estou construindo
+## O que estou construindo
 * **Arquitetura de Dados:** Modelagem e estruturação de banco de dados para sistemas de gestão de despesas e frotas (ERP).
 * **Automação Corporativa:** Otimização de processos administrativos utilizando o ecossistema Microsoft.
 
 <br>
 
-## 🛠️ Minha Stack
+## Minha Stack
 
 ### Banco de Dados & Arquitetura
 <div>
