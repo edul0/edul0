@@ -24,8 +24,8 @@
 
 ### Banco de Dados & Arquitetura
 <div>
-  <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">
-  <img src="https://img.shields.io/badge/Modelagem_de_Dados-20232A?style=for-the-badge&logo=databricks&logoColor=white">
+  "<img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">"
+  "<img src="https://img.shields.io/badge/Modelagem_de_Dados-20232A?style=for-the-badge&logo=databricks&logoColor=white">"
 </div>
 
 ### Ecossistema Corporativo & Automação
