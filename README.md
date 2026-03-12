@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edul0&show_icons=true&theme=dark&include_all_commits=true&v=2"/>
   <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" alt="Banner" width="100%">
   
   <h1>Olá! Meu nome é EduardoL</h1>
