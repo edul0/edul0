@@ -8,8 +8,8 @@
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edul0&show_icons=true&theme=dark&include_all_commits=true&count_private=true&v=1"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edul0&layout=compact&langs_count=7&theme=dark&v=1"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=edul0&show_icons=true&theme=dark&include_all_commits=true&v=2"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edul0&layout=compact&langs_count=7&theme=dark&v=2"/>
 </div>
 
 <br>
@@ -24,8 +24,8 @@
 
 ### Banco de Dados & Arquitetura
 <div>
-  "<img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">"
-  "<img src="https://img.shields.io/badge/Modelagem_de_Dados-20232A?style=for-the-badge&logo=databricks&logoColor=white">"
+  <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">
+  <img src="https://img.shields.io/badge/Modelagem_de_Dados-20232A?style=for-the-badge&logo=databricks&logoColor=white">
 </div>
 
 ### Ecossistema Corporativo & Automação
