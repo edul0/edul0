@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://i.imgur.com/gK2TIs1.gif" alt="Banner" width="100%">
+  <img src="[https://i.imgur.com/gK2TIs1.gif](https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif)" alt="Banner" width="100%">
   
-  <h1>Olá! Meu nome é Otavio</h1>
+  <h1>Olá! Meu nome é Eduardo L</h1>
   <p>Estudante de Gestão da TI estruturando soluções corporativas, automações e bancos de dados.</p>
 </div>
 
