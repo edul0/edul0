@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="[https://i.imgur.com/gK2TIs1.gif](https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif)" alt="Banner" width="100%">
+  <img src="https://i.pinimg.com/originals/4f/f0/88/4ff088795aff41e835671f1479fa0366.gif" alt="Banner" width="100%">
   
-  <h1>Olá! Meu nome é Eduardo L</h1>
+  <h1>Olá! Meu nome é Otavio</h1>
   <p>Estudante de Gestão da TI estruturando soluções corporativas, automações e bancos de dados.</p>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=COLOQUE_SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=COLOQUE_SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <br>
@@ -33,9 +33,4 @@
   <img src="https://img.shields.io/badge/Power_Apps-0078D4?style=for-the-badge&logo=microsoft-powerapps&logoColor=white">
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white">
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
-</div>
-
-### Certificações
-<div>
-  <img src="https://img.shields.io/badge/Microsoft_PL--900-05122A?style=for-the-badge&logo=microsoft&logoColor=white">
 </div>
