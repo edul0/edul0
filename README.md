@@ -26,6 +26,7 @@
 <div>
   <img src="https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white">
   <img src="https://img.shields.io/badge/Modelagem_de_Dados-20232A?style=for-the-badge&logo=databricks&logoColor=white">
+   <img src="https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=databricks&logoColor=white">
 </div>
 
 ### Ecossistema Corporativo & Automação
@@ -33,11 +34,5 @@
   <img src="https://img.shields.io/badge/Power_Apps-0078D4?style=for-the-badge&logo=microsoft-powerapps&logoColor=white">
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoft-power-automate&logoColor=white">
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white">
-</div>## 🚀 O que estou construindo
+</div>
 
-**Logística & Arquitetura Corporativa:**
-* **ERP de Frotas:** Modelagem e estruturação de banco de dados relacional para sistemas de gestão de despesas e manutenção.
-* **Governança Microsoft:** Otimização e automação de processos administrativos utilizando o ecossistema Power Platform (Automate, Apps e SharePoint).
-
-**Laboratório de Estudos (Front-end):**
-* [**Sistema de Identificação (API REST):**](https://github.com/edul0/pokedex-quiz) Consumo de dados assíncronos da PokéAPI utilizando JavaScript Vanilla, manipulação de DOM e rotas dinâmicas.
